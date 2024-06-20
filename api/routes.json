@@ -1,0 +1,6 @@
+{
+    "/api/v1/*": "/$1",
+    "/cuentas/chats/:chatId": "/chats?chatId=:cuentaId",
+    "/chats/:id": "/chats?id=:id"
+  }
+  
