@@ -225,6 +225,24 @@
       "id": 6
     }
   ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "pickup_address": "Av San Borja Sur 841",
+      "shipping_address": "Av Nigga Nei 345",
+      "express_shipping": true,
+      "tipo_encomienda": "Encomienda regular",
+      "instrucciones": "Dejar en la puerta"
+    },
+    {
+      "shipping_address": "Av. Lebron James 720",
+      "pickup_address": "Av. Peru 3118",
+      "express_shipping": true,
+      "tipo_encomienda": "Encomienda regular",
+      "id": 2
+    }
+  ],
   "cuentas": [
     {
       "id": 1,
@@ -330,6 +348,13 @@
       "toAccount": "agua",
       "date": "04-12-2024",
       "type": "proveedor",
+      "cuentaId": 1
+    },
+    {
+      "id": 9,
+      "toAccount": "nicolas",
+      "date": "06-06-2024",
+      "type": "cliente",
       "cuentaId": 1
     }
   ]
