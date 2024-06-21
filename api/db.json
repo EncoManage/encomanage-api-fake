@@ -267,6 +267,12 @@
       "email": "lemo@gmail.com",
       "password": "ggss",
       "id": 7
+    },
+    {
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "password": "mmmm",
+      "id": 8
     }
   ],
   "chats": [
