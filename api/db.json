@@ -241,6 +241,30 @@
       "express_shipping": true,
       "tipo_encomienda": "Encomienda regular",
       "id": 2
+    },
+    {
+      "shipping_address": "Jr. Pueblo Libre 666",
+      "pickup_address": "Av. Jesus Maria 345",
+      "express_shipping": true,
+      "tipo_encomienda": "Encomienda de comida",
+      "price": 40,
+      "id": 3
+    },
+    {
+      "shipping_address": "Av Yeezus 69",
+      "pickup_address": "Av Jisus 666",
+      "express_shipping": true,
+      "tipo_encomienda": "Encomienda regular",
+      "price": 118,
+      "id": 4
+    },
+    {
+      "shipping_address": "Av. Eu se tu falta de voce ",
+      "pickup_address": "Av. Amar de 777",
+      "express_shipping": true,
+      "tipo_encomienda": "Encomienda regular",
+      "price": 77,
+      "id": 5
     }
   ],
   "cuentas": [
